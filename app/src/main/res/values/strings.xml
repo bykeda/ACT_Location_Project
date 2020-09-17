@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">ACT Location Project</string>
+
+    <string name="name_of_location">Name of Location</string>
+    <string name="desc_of_location">Description of Location</string>
+
+    <string name="add_location">Add Location</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="showmap">Show Map</string>
+    <string name="delete">Delete</string>
+
+    <string name="normal_map">Normal</string>
+    <string name="hybrid_map">Hybrid</string>
+    <string name="satellite_map">Satellite</string>
+    <string name="terrain_map">Terrain</string>
+
+    <string name="editlocname">Edit Location Name</string>
+    <string name="editlocdesc">Edit Location Description</string>
+
+    <string name="filter">Filter</string>
+    <string name="reset">Reset</string>
+
+    <string name="longlat">LongLatt</string>
+    <string name="update_location">Update Location</string>
+    <string name="search">Search</string>
+
+</resources>
